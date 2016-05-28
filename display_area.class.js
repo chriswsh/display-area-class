@@ -178,7 +178,7 @@ function display_area() {
     $('p#' + display_area.prototype.getName(o.parent) + '_menu a.menu_next_link').live('click', function(event){
       event.preventDefault();
       o.parent.nextPage();
-   	});
+    });
   }
   
   // ** Function **
