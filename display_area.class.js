@@ -1,6 +1,7 @@
 ﻿// This is the Browse Menu object.
 // It holds span names, keeps tracks of internal vars, and POST info
-// Requires jQuery to work
+// Requires jQuery w/ AJAX
+// SAMPLE CODE FOR DISPLAY
 
 function display_area() {
 
