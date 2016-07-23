@@ -1,3 +1,3 @@
 # Sample Repository
 
-Contains various code/technical writing samples.
+Contains a Javascript jQuery Class to Display Data Pulled Through AJAX
